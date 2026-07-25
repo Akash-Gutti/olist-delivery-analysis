@@ -3,8 +3,8 @@
 **Data:** Olist Brazilian E-Commerce public dataset. 96,455 delivered orders with a
 complete delivery timeline, 2016–2018, joined across orders, reviews, customers,
 order items and products.
-**Dashboard:** [https://datastudio.google.com/reporting/bd0ee20b-185d-4020-9f81-e0ab2fd821eb]
-**Analysis:** (https://github.com/Akash-Gutti/olist-delivery-analysis)/sql/analysis.sql
+**Dashboard:** https://datastudio.google.com/reporting/bd0ee20b-185d-4020-9f81-e0ab2fd821eb
+**Analysis:** https://github.com/Akash-Gutti/olist-delivery-analysis/blob/main/sql/03_analysis.sql
 
 ---
 
