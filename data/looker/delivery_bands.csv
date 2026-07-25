@@ -1,0 +1,6 @@
+delivery_band,orders,avg_review
+1. On time or early,88630,4.29
+2. Late 1-3 days,2662,3.77
+3. Late 4-7 days,1818,2.32
+4. Late 8-14 days,1790,1.74
+5. Late 15+ days,1555,1.71
